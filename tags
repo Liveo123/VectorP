@@ -1,0 +1,22 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+direction	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^    def direction(self):$/;"	m	language:Python	class:VectorP
+magnitude	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^    def magnitude(self):$/;"	m	language:Python	class:VectorP
+main	/Users/Jimini/code/python/Book/library/vectors/main.py	/^def main():$/;"	f	language:Python
+math	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^import math$/;"	i	language:Python
+np	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^import numpy as np $/;"	i	language:Python
+pdb	/Users/Jimini/code/python/Book/library/vectors/vectorP.py	/^import pdb$/;"	i	language:Python
+pdb	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^import pdb$/;"	i	language:Python
+sys	/Users/Jimini/code/python/Book/library/vectors/main.py	/^import sys$/;"	i	language:Python
+VectorP	/Users/Jimini/code/python/Book/library/vectors/main.py	/^from VectorP import VectorP$/;"	i	language:Python
+VectorP	/Users/Jimini/code/python/Book/library/vectors/vectorP.py	/^class VectorP(object):$/;"	c	language:Python
+VectorP	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^class VectorP(object):$/;"	c	language:Python
+__add__	/Users/Jimini/code/python/Book/library/vectors/vectorP.py	/^    def __add__(self, other):$/;"	m	language:Python	class:VectorP	file:
+__add__	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^    def __add__(self, other):$/;"	m	language:Python	class:VectorP	file:
+__eq__	/Users/Jimini/code/python/Book/library/vectors/vectorP.py	/^    def __eq__(self, v):$/;"	m	language:Python	class:VectorP	file:
+__eq__	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^    def __eq__(self, v):$/;"	m	language:Python	class:VectorP	file:
+__init__	/Users/Jimini/code/python/Book/library/vectors/vectorP.py	/^    def __init__(self, coordinates):$/;"	m	language:Python	class:VectorP
+__init__	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^    def __init__(self, coordinates, dataType = 0):$/;"	m	language:Python	class:VectorP
+__mul__	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^    def __mul__(self, scalar):$/;"	m	language:Python	class:VectorP	file:
+__str__	/Users/Jimini/code/python/Book/library/vectors/vectorP.py	/^    def __str__(self):$/;"	m	language:Python	class:VectorP	file:
+__str__	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^    def __str__(self):$/;"	m	language:Python	class:VectorP	file:
+__sub__	/Users/Jimini/code/python/Book/library/vectors/VectorP.py	/^    def __sub__(self, other):$/;"	m	language:Python	class:VectorP	file:
